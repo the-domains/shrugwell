@@ -1,18 +1,13 @@
 analytics: {}
 color:
-  brandColors:
-    - '#C0C8D0'
-    - '#501800'
-    - '#7090C0'
-    - '#E80840'
-    - '#D8C078'
+  brandColors: []
   brandStrength: 0.08743484108708799
   lightness: 0.7539607831276953
   rhythmicContrast: 0.33766120998188853
   saturation: 0.10038738953880966
 cta: {}
-layout_spectrum: 0.80306
+layout_spectrum: 0
 name: shrugwell
 opengraph: {}
 purpose: []
-typography_spectrum: 0.4980205267202109
+typography_spectrum: 0.49802
