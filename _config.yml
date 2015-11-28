@@ -1,23 +1,18 @@
-name: shrugwell
-favicon: null
-layout_spectrum: 0.8030607625842094
-typography_spectrum: 0.4980205267202109
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
-  brandColors: []
+  brandColors:
+    - '#C0C8D0'
+    - '#501800'
+    - '#7090C0'
+    - '#E80840'
+    - '#D8C078'
   brandStrength: 0.08743484108708799
   lightness: 0.7539607831276953
-  saturation: 0.10038738953880966
   rhythmicContrast: 0.33766120998188853
+  saturation: 0.10038738953880966
+cta: {}
+layout_spectrum: 0.80306
+name: shrugwell
+opengraph: {}
 purpose: []
+typography_spectrum: 0.4980205267202109
